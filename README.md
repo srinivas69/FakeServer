@@ -1,11 +1,11 @@
 # FakeServer
 
-Try it
+# Url
 
 https://my-json-server.typicode.com/srinivas69/FakeServer
 
 
-Routes
+# Routes
 
 All HTTP verbs are supported.
 View usage examples.
